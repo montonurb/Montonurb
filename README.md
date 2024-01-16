@@ -17,8 +17,8 @@
   </a>
 </div>
 <h1></h1>
-<p align='left'>- 🎓 Postgraduate in Programming for Mobile Devices at IFPI. Bachelor of Computer Science.</p>
 <p align='left'>- 💻 Flutter & Java developer.</p>
+<p align='left'>- 🎓 Postgraduate in Programming for Mobile Devices at IFPI. Bachelor of Computer Science at UESPI.</p>
 <p align='left'>- 🔭 I'm currently working on the development of web and mobile applications.</p>
 <p align='left'>- 🧡 I’m currently using Java and Flutter</p>
 <p align='left'>- 💬 I'm love solving problems and learning. Always open to new challenges and ready to face changes.</p>
