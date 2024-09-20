@@ -1,6 +1,6 @@
 <h1 align='center'>Hey guy !</h1> 
 
-<p align='center'>I'm Bruno Monteiro</p>
+<p align='center'>I'm Bruno Monteiro (or Montonurb)</p>
 
 <div align='center'>
   <a href="https://t.me/montonurb/">
